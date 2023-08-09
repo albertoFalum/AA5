@@ -14,5 +14,6 @@ public class AA5 {
     }
     
     
-    ///Elimine las clases de la rama Main y el main de la Rama- Alberto
+    ///Hola Chicos
+    ///Cuando se hace el merge hay que estar en el main y ahi elegir la rama con la que se va a hacer el merge
 }
